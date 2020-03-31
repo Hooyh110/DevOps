@@ -92,7 +92,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'archer_github',
         'USER': 'root',
-        'PASSWORD': 'I5jGW9g86EPz&M*5',
+        'PASSWORD': 'I*******',
         'HOST': 'mysql',
         'PORT': '3306'
     }
@@ -105,7 +105,7 @@ INCEPTION_PORT = '6669'
 INCEPTION_REMOTE_BACKUP_HOST = 'mysql'
 INCEPTION_REMOTE_BACKUP_PORT = 3306
 INCEPTION_REMOTE_BACKUP_USER = 'inception'
-INCEPTION_REMOTE_BACKUP_PASSWORD = '****'#此处密码修改为自己的
+INCEPTION_REMOTE_BACKUP_PASSWORD = 'inception'#此处密码修改为自己的
 # 账户登录失败锁定时间(秒)
 LOCK_TIME_THRESHOLD = 300
 # 账户登录失败 几次 锁账户
